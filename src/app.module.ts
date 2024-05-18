@@ -7,7 +7,7 @@ import { RoutingModule } from './modules/routing.module';
 
 @Module({
   imports: [
-    ConfigModule.forRoot({ envFilePath: '.env', isGlobal: true }),
+    ConfigModule.forRoot({ envFilePath: '.env.dev', isGlobal: true }),
     DatabaseModule,
     RoutingModule,
   ],
