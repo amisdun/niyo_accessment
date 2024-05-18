@@ -27,6 +27,6 @@ $ yarn run start:prod
 ```
 Socket Server URL: ws://localhost:3000/.
 
-Connect to socket server by setting an "authentication" header with value as user jwt token generated after login.\n\n Subscribe and listen to the following events "TASK_CREATED", "TASK_UPDATED" and "TASK_DELETED"
+<p>Connect to socket server by setting an "authentication" header with value as user jwt token generated after login.</p><br> <p>Subscribe and listen to the following events "TASK_CREATED", "TASK_UPDATED" and "TASK_DELETED"</p>
 
 ```
