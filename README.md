@@ -19,10 +19,8 @@ $ yarn run start:prod
 
 ## Access API documentation here
 
-```
   [API DOCUMENTATION](http://localhost:3000/docs)
   
-```
 
 ## Connecting to Socket.io 
 
